@@ -1,27 +1,26 @@
+
+/* <<< HEADER >>> */
+
 body{
   font-family:"Avenir Next";
 }
 
-/* <<< HEADER >>> */
+li{
+ list-style:none;
+ float:left;
+ padding:33px 20px;
+}
 
 .header {
-  /*背景色：ligytcyan*/
-  background-color: #e0fff;
-  color: blue;
-  height: 50px;
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
 }
 
-/*headerの中のheader-logo:"パパの部屋"*/
 .header-logo {
   float:left;
-  font-size: 50px;
-  padding: 20px 10px;
-}
-
-  /*headerの中のheader-list:"今日の出来事〜お問い合わせ"*/
-.header-list li {
-  list-style: none;
-  float:left;
+  font-size: 36px;
+  padding: 20px 40px;
 }
 
 /* <<< MAIN >>> */
