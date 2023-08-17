@@ -26,7 +26,7 @@ li{
 /* <<< MAIN >>> */
 
 .main {
-  padding: 100px 80px;
+  height:600px;
 }
 
 .copy-container h1 {
@@ -70,10 +70,9 @@ li{
 /* <<< FOOTER >>> */
 
 .footer {
-  background-color: #2f5167;
+  background-color: #26d0c9;
   color: #fff;
-  height: 120px;
-  padding: 40px;
+  height: 90px;
 }
 
 .footer-logo {
