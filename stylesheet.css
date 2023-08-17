@@ -51,15 +51,11 @@ li{
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  font-size: 28px;  
-  padding-bottom: 15px;
-  margin-bottom: 50px;
-  
+  font-size: 28px;
 }
 
 .contents-item {
   float:left;
-  margin-right:40px;
 }
 
 .contents-item p {
