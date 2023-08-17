@@ -11,11 +11,6 @@ body{
   height: 50px;
 }
 
-li {
-  list-style: none;
-  float:left;
-}
-
 /*headerの中のheader-logo:"パパの部屋"*/
 .header-logo {
   float:left;
@@ -23,10 +18,10 @@ li {
   padding: 20px 10px;
 }
 
-  /*headerの中のheader-list:"パパの部屋"*/
+  /*headerの中のheader-list:"今日の出来事〜お問い合わせ"*/
 .header-list li {
-  float: left;
-  padding: 33px 20px;
+  list-style: none;
+  float:left;
 }
 
 /* <<< MAIN >>> */
