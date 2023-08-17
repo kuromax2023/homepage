@@ -9,17 +9,19 @@ li {
 /* <<< HEADER >>> */
 
 .header {
-  background-color: #26d0c9;
-  color: #fff;
-  height: 90px;
+  /*背景色：ligytcyan*/
+  background-color: #e0fff;
+  color: blue;
+  height: 50px;
 }
-
+  /*headerの中のheader-logo:"パパの部屋"*/
 .header-logo {
   float: left;
-  font-size: 36px;
-  padding: 20px 40px;
+  font-size: 140px;
+  padding: 20px 10px;
 }
 
+  /*headerの中のheader-list:"パパの部屋"*/
 .header-list li {
   float: left;
   padding: 33px 20px;
