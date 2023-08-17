@@ -2,10 +2,6 @@ body{
   font-family:"Avenir Next";
 }
 
-li {
-  list-style: none;
-}
-
 /* <<< HEADER >>> */
 
 .header {
@@ -14,10 +10,16 @@ li {
   color: blue;
   height: 50px;
 }
-  /*headerの中のheader-logo:"パパの部屋"*/
+
+li {
+  list-style: none;
+  float:left;
+}
+
+/*headerの中のheader-logo:"パパの部屋"*/
 .header-logo {
-  float: left;
-  font-size: 140px;
+  float:left;
+  font-size: 50px;
   padding: 20px 10px;
 }
 
